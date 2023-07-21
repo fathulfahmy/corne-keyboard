@@ -1,5 +1,7 @@
 # Corne Keyboard
 
+[Preview my crkbd layout](https://gist.github.com/fathulfahmy/9b3548f96523210ad8884cbb4d12a527)
+
 ### Prerequisites
 1. Download latest [QMK Toolbox release](https://github.com/qmk/qmk_toolbox/releases)
 2. Download latest [Vial release](https://get.vial.today/download/)
@@ -27,4 +29,3 @@
 2. File > Load saved layout
 3. Select `crkbd-vial-layout.vil`
 
-[Preview my crkbd layout](https://gist.github.com/fathulfahmy/9b3548f96523210ad8884cbb4d12a527)
