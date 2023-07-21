@@ -25,5 +25,6 @@
 ### Keybindings
 1. Open Vial
 2. File > Load saved layout
-3. Select `crkbd-vial-layout.vil`  
+3. Select `crkbd-vial-layout.vil`
+
 [Preview my crkbd layout](https://gist.github.com/fathulfahmy/9b3548f96523210ad8884cbb4d12a527)
