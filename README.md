@@ -1,7 +1,5 @@
 # Corne Keyboard (crkbd/rev1)
 
-[Preview my crkbd layout](https://gist.github.com/fathulfahmy/9b3548f96523210ad8884cbb4d12a527)
-
 ## Guide to flash firmware
 
 ### QMK
